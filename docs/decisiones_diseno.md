@@ -38,3 +38,7 @@ Opción:
 ## 4. Estrategia de debouncing
 Dos revisiones del estado del botón separadas por 20ms. Si hay coincidencia se garantiza que no fue rebote.
 (Button.s)
+
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

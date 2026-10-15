@@ -47,6 +47,7 @@ ROM para instrucciones - RAM para datos
 - Registros
 - ROM
 - ALU
+
 ---
 ## Enlaces
-[[Ing. Electrónica]]
+[[reto_1_assembly|Reto 1 Assembly]]

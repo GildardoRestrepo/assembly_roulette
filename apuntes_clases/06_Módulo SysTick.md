@@ -28,6 +28,7 @@ No está en el datasheet [[dm00031020.pdf]] porque no es oficial de muchos fabri
 
 
 > **SysTick_Handler:** Rutina de interrupción
+
 ---
 ## Enlaces
-[[Ing. Electrónica]]
+[[reto_1_assembly|Reto 1 Assembly]]

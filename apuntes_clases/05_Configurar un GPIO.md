@@ -199,5 +199,4 @@ d1:     SUBS R5, R5, #1              // R5 = R5 - 1 y actualiza flags
 
 ---
 ## Enlaces
-[[Ing. Electrónica]]
-[[Clase 04 - Operaciones en Assembly_Entrenamiento]]
+[[reto_1_assembly|Reto 1 Assembly]]

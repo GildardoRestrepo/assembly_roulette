@@ -19,3 +19,7 @@ Una vez claras las decisiones de diseño, división del proyecto por etapas y un
  - Explica cómo se enlazan diferentes .s en un proyecto SEGGER y ayudame a estudiar la estructura de carpetas necestaria para un proyecto SEGGER cargado a través de ST Link con STM32CubeProgrammer.
  - Construye andamiaje de código .s para esta etapa de proyecto (usado en las etapas 1 y 3).
  - Revisa consistencia en documentación final (y construye la estructura de tablas para los .md con tablas extensas).
+
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

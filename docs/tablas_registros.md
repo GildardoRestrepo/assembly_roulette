@@ -39,3 +39,7 @@ Bases de referencia:
 
 ## Fase 4 — Juego (Ruleta de Precisión)
 *(No configura registros nuevos: reutiliza `GPIOD_ODR` para los LEDs, `GPIOE_IDR` para el botón y `SysTick` para los tiempos de parpadeo y congelamiento.)*
+
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

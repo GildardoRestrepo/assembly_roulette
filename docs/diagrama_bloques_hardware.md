@@ -41,5 +41,8 @@ flowchart LR
 - **Resistencia limitadora**: Resistencia de ~330 Ω al cátodo común de la fila de LEDs, para ~10 mA a 3.3 V. Puesto que el juego
   enciende **un solo LED a la vez** no hay otro tipo de caidas de tensión, de modo que el brillo es el mismo.
 - **Botón activo-bajo**: con pull-up interno, en reposo PE3 lee `1`; al pulsar, `0`.
-- **Alimentación**: A través de la salida 3.3[V] que trae incroporado el STLink.  
+- **Alimentación**: A través de la salida 3.3[V] que trae incroporado el STLink.
 
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

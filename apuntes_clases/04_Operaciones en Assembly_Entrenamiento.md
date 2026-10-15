@@ -348,5 +348,4 @@ Pista: `x*5 = (x<<2) + x`.
 
 ---
 ## Enlaces
-[[Ing. Electrónica]]
-[[Clase 05 - Configurar un GPIO]]
+[[reto_1_assembly|Reto 1 Assembly]]

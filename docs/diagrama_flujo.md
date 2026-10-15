@@ -49,3 +49,7 @@ flowchart TD
 - **Rutina de barrido**: Se definen dos funciones de barrido para el avance y el rebote (llamadas barrido y retorno, respectivamente). Tras llegar a PD07 y sin la lógica de juego interrumpida, en lugar de retornar a PD0 se vuelve a PD6 y se inicia un barrido hacia la izquierda con la misma estructura de comparación que el barrido original. Al finalizar **retorno** llama a **barrido** para reiniciar el proceso.     
 - **Debouncing**: Para evitar lecturas erróneas del botón debido a efectos mecánicos, el debouncing actúa como un proceso de doble verificación, evaluando el estado en dos momentos separados en el tiempo por 20ms (criterio técnico de diseño). [src/button.s]
 - **Evaluación acierto/fallo**: El registro r4 es quien hace las veces de variable que almacena el LED actual encendido. Tras confirmar la lectura del botón mientras se ejecuta el barrido/rebote (con la técanica de debouncing), se entra en el bloque de evaluación que contiene 3 funciones: evaluar, fallo y victoria. Evaluar compara el registro r4 con el led objetivo y según dicho resultado se va hacia, o bien al bloque fallo, o bien al de victoria. Ambos bloques vuelven (b reiniciar) al bucle principal de juego. [src/main.s]
+
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

@@ -136,4 +136,4 @@ Ejemplos de `RISC`:
 
 ---
 ## Enlaces
-[[Ing. Electrónica]]
+[[reto_1_assembly|Reto 1 Assembly]]

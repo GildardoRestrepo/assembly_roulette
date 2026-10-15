@@ -51,3 +51,7 @@ src/    -> código ensamblador (.s), un archivo por responsabilidad.
 - [X] Fase 4 — Lógica del juego (acierto / fallo / reinicio)
 - [X] Fase 5 — Documentación final (tabla de registros, cálculos, diagramas)
 - [X] Fase 6 - Documentación respecto al uso de IA
+
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

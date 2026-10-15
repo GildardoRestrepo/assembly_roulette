@@ -95,3 +95,7 @@ Semestre: 2026-02
 - **`bl` + `bx lr`** = el par llamada/retorno. `LR` es la "memoria" de a dónde volver.
 - **`.thumb_func`** pone el bit Thumb en la dirección de la etiqueta: por eso la tabla de vectores y los `bl` saltan correctamente.
 - **Base + offset** (`[Rn, #off]`) es *idéntico* a acceder a un campo de un `struct` por puntero.
+
+---
+## Enlaces
+[[reto_1_assembly|Reto 1 Assembly]]

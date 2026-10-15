@@ -72,4 +72,4 @@ Para un `ARM Cortex-M` hay 16 `registros` visibles para usuarios.
 
 ---
 ## Enlaces
-[[Ing. Electrónica]]
+[[reto_1_assembly|Reto 1 Assembly]]
