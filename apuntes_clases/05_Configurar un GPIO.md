@@ -1,6 +1,5 @@
 ---
-tags:
-  - tipo/clase
+type: clase
 ---
 # Microcontroladores
 29/07/2026
